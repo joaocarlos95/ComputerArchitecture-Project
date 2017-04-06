@@ -1,5 +1,9 @@
 # Computer Architecture Project (2014-2015)
 
+### Contributors
+- [@joaobernardo17](https://github.com/joaobernardo17) - João Bernardo Alves
+- [@carolNeves](https://github.com/carolNeves) - Carolina Neves
+
 ### About
 The main objective is to create a game in assembly and run using the PEPE simulator.
 
